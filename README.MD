@@ -15,3 +15,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/yxtiblya)
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=instagram)](https://instagram.com/016th)
 [![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/yxtiblya)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxtiblya&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yxtiblya&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
