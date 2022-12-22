@@ -10,6 +10,7 @@
 ![Framework](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
 ![Docker](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=Jira)
 ![Linux](https://img.shields.io/badge/-LINUX-090909?style=for-the-badge&logo=linux&logoColor=FFF)
 ![Sqlalchemy](https://img.shields.io/badge/-SQLALCHEMY-090909?style=for-the-badge)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
@@ -18,7 +19,6 @@
 ### Languages and technologies in teach
 ![Redis](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis)
 ![Kubernetes](https://img.shields.io/badge/-KUBERNETES-090909?style=for-the-badge&logo=kubernetes)
-![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=Jira)
 ![Nginx](https://img.shields.io/badge/-NGINX-090909?style=for-the-badge&logo=nginx&logoColor=11d43e)
 
 ### Follow Me
