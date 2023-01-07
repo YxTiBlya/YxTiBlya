@@ -3,8 +3,8 @@
 ## I'm growing backend developer
 
 ### Languages and technologies
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Golang](https://img.shields.io/badge/-GOLANG-090909?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) 
+![Golang](https://img.shields.io/badge/-GOLANG-090909?style=for-the-badge&logo=Go)
 ![Sql](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Framework](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
 ![Framework](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
@@ -15,10 +15,11 @@
 ![Sqlalchemy](https://img.shields.io/badge/-SQLALCHEMY-090909?style=for-the-badge)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![Redis](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis)
 
 ### Languages and technologies in teach
-![Redis](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis)
 ![Kubernetes](https://img.shields.io/badge/-KUBERNETES-090909?style=for-the-badge&logo=kubernetes)
+![RabbitMQ](https://img.shields.io/badge/-RABBITMQ-090909?style=for-the-badge&logo=rabbitmq)
 ![Nginx](https://img.shields.io/badge/-NGINX-090909?style=for-the-badge&logo=nginx&logoColor=11d43e)
 
 ### Follow Me
