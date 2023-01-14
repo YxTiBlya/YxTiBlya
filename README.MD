@@ -22,6 +22,4 @@
 ![RabbitMQ](https://img.shields.io/badge/-RABBITMQ-090909?style=for-the-badge&logo=rabbitmq)
 ![Nginx](https://img.shields.io/badge/-NGINX-090909?style=for-the-badge&logo=nginx&logoColor=11d43e)
 
-### Follow Me
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/yxtiblya)
-[![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/yxtiblya)
+### Follow me in [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/yxtiblya)
