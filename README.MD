@@ -12,7 +12,6 @@
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 ![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=Jira)
 ![Linux](https://img.shields.io/badge/-LINUX-090909?style=for-the-badge&logo=linux&logoColor=FFF)
-![Sqlalchemy](https://img.shields.io/badge/-SQLALCHEMY-090909?style=for-the-badge)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Redis](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis)
