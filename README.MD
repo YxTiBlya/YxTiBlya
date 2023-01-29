@@ -3,19 +3,20 @@
 ## I'm growing backend developer
 
 ### Languages and technologies
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) 
 ![Golang](https://img.shields.io/badge/-GOLANG-090909?style=for-the-badge&logo=Go)
-![Sql](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
-![Framework](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
-![Framework](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![Framework](https://img.shields.io/badge/-Gin-090909?style=for-the-badge&logo=Go)
+![ORM](https://img.shields.io/badge/-GORM-090909?style=for-the-badge&logo=Go)
 ![Docker](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)
+![Redis](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis)
+![Auth](https://img.shields.io/badge/-JWT-090909?style=for-the-badge)
+![Sql](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) 
+![Framework](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask)
+![Framework](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
+![ORM](https://img.shields.io/badge/-SQLALCHEMY-090909?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=Jira)
 ![Linux](https://img.shields.io/badge/-LINUX-090909?style=for-the-badge&logo=linux&logoColor=FFF)
-![Sqlalchemy](https://img.shields.io/badge/-SQLALCHEMY-090909?style=for-the-badge)
-![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![Redis](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis)
 
 ### Languages and technologies in teach
 ![Kubernetes](https://img.shields.io/badge/-KUBERNETES-090909?style=for-the-badge&logo=kubernetes)
