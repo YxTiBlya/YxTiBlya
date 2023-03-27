@@ -1,28 +1,40 @@
-![Header](https://github.com/YxTiBlya/YxTiBlya/blob/main/assets/Yx%20Ti%20Blya2.jpg)
+![Header](https://github.com/YxTiBlya/YxTiBlya/blob/main/assets/YxTiBlya.jpg)
 
-## I'm growing backend developer
+## I'm backend developer
 
-### Languages and technologies
+### My main skills
 ![Golang](https://img.shields.io/badge/-GOLANG-090909?style=for-the-badge&logo=Go)
-![Framework](https://img.shields.io/badge/-Gin-090909?style=for-the-badge&logo=Go)
-![ORM](https://img.shields.io/badge/-GORM-090909?style=for-the-badge&logo=Go)
-![Docker](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)
 ![Redis](https://img.shields.io/badge/-REDIS-090909?style=for-the-badge&logo=redis)
-![Auth](https://img.shields.io/badge/-JWT-090909?style=for-the-badge)
-![Sql](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) 
-![Framework](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask)
-![Framework](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
-![ORM](https://img.shields.io/badge/-SQLALCHEMY-090909?style=for-the-badge)
-![Jira](https://img.shields.io/badge/-jira-090909?style=for-the-badge&logo=Jira)
-![Linux](https://img.shields.io/badge/-LINUX-090909?style=for-the-badge&logo=linux&logoColor=FFF)
-
-### Languages and technologies in teach
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
+![MinIO](https://img.shields.io/badge/-MinIO-090909?style=for-the-badge&logo=minio)
+![Docker](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-KUBERNETES-090909?style=for-the-badge&logo=kubernetes)
 ![RabbitMQ](https://img.shields.io/badge/-RABBITMQ-090909?style=for-the-badge&logo=rabbitmq)
+![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-LINUX-090909?style=for-the-badge&logo=linux&logoColor=FFF)
+
+![GRPC](https://img.shields.io/badge/-grpc-090909?style=for-the-badge)
+![REST](https://img.shields.io/badge/-rest-090909?style=for-the-badge)
+![MICROSERVICES](https://img.shields.io/badge/-MICROSERVICES-090909?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge)
+![ELK](https://img.shields.io/badge/-elk_stack-090909?style=for-the-badge)
+
+### Other skills
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) 
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) 
+![Kaffka](https://img.shields.io/badge/-kaffka-090909?style=for-the-badge&logo=apachekafka)
 ![Nginx](https://img.shields.io/badge/-NGINX-090909?style=for-the-badge&logo=nginx&logoColor=11d43e)
+
+### Algo trainings
++ Young&Yandex Trainings
++ Leetcode
+
+### Interests
++ Software engineering
++ Pentesting
++ Networking
++ Low level programming
++ ~~Hate linters~~
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/yxtiblya)
-[![Vkontakte](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/yxtiblya)
